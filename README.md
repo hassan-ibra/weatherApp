@@ -1,6 +1,13 @@
 # weatherApp
 
 This Weather App is a web application allows users to search a city and find out its weather Temperature, humidity and wind speed.
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/hassan-ibra/SimpleTwitter/blob/master/ezgif.com-gif-maker%20(4).gif' title='Twitter gif' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Features
 * Fetches weather data from an API based on user input.
