@@ -5,7 +5,7 @@ This Weather App is a web application allows users to search a city and find out
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/hassan-ibra/SimpleTwitter/blob/master/ezgif.com-gif-maker%20(4).gif' title='Twitter gif' width='' alt='Video Walkthrough' />
+<img src='https://github.com/hassan-ibra/weatherApp/blob/master/ezgif.com-video-to-gif (1).gif' title='Twitter gif' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
