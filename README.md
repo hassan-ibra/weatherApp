@@ -1,4 +1,8 @@
 # weatherApp
 
-The Weather App is a web application that allows users to fetch and display weather data using an API. This application is built using HTML, CSS, and JavaScript.
+This Weather App is a web application allows users to search a city and find out its weather Temperature, humidity and wind speed.
+
+#Features
+
+
 
