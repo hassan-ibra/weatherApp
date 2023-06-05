@@ -25,7 +25,7 @@ This Weather App is a web application allows users to search a city and find out
 
 
 ## Acknowledgements
-* The Weather App was built using the Weather API.
+* The Weather App was built using the [Weather API](https://openweathermap.org/api).
 
 
 
