@@ -7,7 +7,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/hassan-ibra/weatherApp/blob/master/weatherApp.gif' title='Twitter gif' width='' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](https://www.veed.io/).
 
 ## Features
 * Fetches weather data from an API based on user input.
